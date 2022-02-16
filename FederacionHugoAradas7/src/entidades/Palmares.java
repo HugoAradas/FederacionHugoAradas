@@ -5,13 +5,12 @@ import java.util.Arrays;
 public class Palmares {
 
 	private long id;
-	
-	
 	private Prueba[] prueba;
 	private String observaciones;
 	
 	
 	public Palmares() {
+		
 	}
 	
 	public Palmares(long id, Prueba[] prueba, String observaciones) {
